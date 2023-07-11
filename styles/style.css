@@ -58,6 +58,10 @@
   border-bottom: 1px solid #000;
 }
 
+.address-link:hover {
+  opacity: .6;
+}
+
 .cover {
   padding: 165px 50px 50px;
   position: relative;
