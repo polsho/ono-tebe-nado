@@ -23,7 +23,7 @@
   border-bottom: 1px solid #000;
 }
 
-.header__menu-item_active .header__menu-link {
+.header__menu-item_active:first-of-type .header__menu-link {
   border-bottom: 0;
 }
 
